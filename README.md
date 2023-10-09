@@ -1,6 +1,6 @@
 # Buenas
 Soy Sofi, estudiante de Licenciatura en Informática en la UNLP.<br><br>
-<p align="center" ><img align="center" src="[[https://tenor.com/es/view/spongebob-computer-fire-gif-21352118](https://tenor.com/es/view/spongebob-computer-fire-gif-21352118)](https://tenor.com/es/view/spongebob-computer-fire-gif-21352118)" width="500" loop></p>
+![spongebob-computer](https://github.com/sofiarod2002/sofiarod2002/assets/128095398/460da510-20e8-4e5b-9492-cc5ad785ba5d)
 
 ## 🌐 Mis redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofia_esser) 
