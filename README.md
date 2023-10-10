@@ -1,4 +1,4 @@
-# Buenas
+# Buenas 😎
 Soy Sofi, estudiante de Licenciatura en Informática en la UNLP.<br><br>
 ![spongebob-computer](https://github.com/sofiarod2002/sofiarod2002/assets/128095398/460da510-20e8-4e5b-9492-cc5ad785ba5d)
 
